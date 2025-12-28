@@ -1,0 +1,7 @@
+{
+  "name": "Hacs Test Card",
+  "render_readme": true,
+  "content_in_root": false,
+  "filename": "Hacs-Test.js",
+  "homeassistant": "2025.12.0"
+}
